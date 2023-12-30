@@ -1,0 +1,22 @@
+{
+  "channel_name": "Namir Channel",
+  "fanart": "https://nerdpopculture.files.wordpress.com/2015/01/puyallup-movie-theater-1.jpg",
+  "thumbnail": "https://cdnb.artstation.com/p/assets/covers/images/065/183/311/large/henrique-tome-henrique-tome-ben-fullthrottle-thumbnail.jpg?1689723371",
+  "menu": [
+    {
+      "title": "Film",
+      "link": "https://raw.githubusercontent.com/peppenamir/ingordi/master/filmmanga",
+      "thumbnail": ""
+    },
+    {
+      "title": "Film tratti da fumetti",
+      "link": "https://raw.githubusercontent.com/peppenamir/ingordi/master/teatro.json",
+      "thumbnail": "https://images.thedirect.com/media/article_full/dcmarvel_WBAhVL3.jpg"
+    },
+    {
+      "title": "Serie Tv",
+      "link": "https://raw.githubusercontent.com/peppenamir/ingordi/master/filmindipendenti",
+      "thumbnail": ""
+    }
+  ]
+}
