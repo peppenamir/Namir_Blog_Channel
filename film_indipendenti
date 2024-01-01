@@ -21,6 +21,17 @@
                     "quality": "HD"
                 }
             ]
+        },
+        {
+            "title": "GHOSTBUSTERS-PRONTI A CREDERE",
+            "year": "",
+            "thumbnail": "https://www.gbitalia.it/wp-content/uploads/2021/11/GBItalia_Poster_100x70_v03-1-1433x2048.jpg",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=rTyYeR8HQqk",
+                    "quality": "HD"
+                }
+            ]
         }
     ]
 }
