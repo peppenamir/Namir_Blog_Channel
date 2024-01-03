@@ -1,0 +1,49 @@
+{
+    "movies_list": [
+        {
+            "title": "MORTAL KOMBAT 1",
+            "year": "",
+            "thumbnail": "https://cdn1.epicgames.com/offer/fda0f2b4047f46ffb4e94d5595c1468e/EGS_MortalKombat1PremiumEdition_NetherRealmStudios_Editions_S1_2560x1440-43d47cfc125118b13b26cea9c80ae15c",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=Prsf_el3ELc",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "BATMAN ARKAM KNIGHT",
+            "year": "",
+            "thumbnail": "https://www.newgamenetwork.com/images/uploads/gallery/BatmanAK/ArkhamKnight01.jpg",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=trHDldFislU",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "SPIDERMAN LOTUS",
+            "year": "",
+            "thumbnail": "https://www.corrierenerd.it/wp-content/uploads/2023/07/bmnTSNrG1dGQgdc3IXlnORhrjvE-740x1047.jpg",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=NkXvZAkWREY",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "GHOSTBUSTERS - PRONTI A CREDERE",
+            "year": "",
+            "thumbnail": "https://www.gbitalia.it/wp-content/uploads/2021/11/GBItalia_Poster_100x70_v03-1-1433x2048.jpg",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=rTyYeR8HQqk",
+                    "quality": "HD"
+                }
+            ]
+        }
+    ]
+}
+
