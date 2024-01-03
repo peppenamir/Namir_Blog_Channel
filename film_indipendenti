@@ -7,7 +7,18 @@
             "links": [
                 {
                     "url": "https://www.youtube.com/watch?v=lBBuaqrOZko",
-                    "quality": "SD"
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "ASSASSIN'S CREED LINEAGE",
+            "year": "",
+            "tmdb_id": "40137",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=RzzzMoO70_Y",
+                    "quality": "HD"
                 }
             ]
         },
@@ -34,9 +45,31 @@
             ]
         },
         {
+            "title": "STAR WARS - DARK RESURRECTION VOL 0",
+            "year": "",
+            "tmdb_id": "1025586",
+            "links": [
+                {
+                    "url": "https://youtu.be/lQzOQI1Rdn0?si=qb0WwP6LDDgAnt4H",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
+            "title": "STAR WARS - DARK RESURRECTION VOL 1",
+            "year": "",
+            "tmdb_id": "1025586",
+            "links": [
+                {
+                    "url": "https://youtu.be/7j4oUVYg1hg?si=niu_5suJoJ1qxWRd",
+                    "quality": "HD"
+                }
+            ]
+        },
+        {
             "title": "GHOSTBUSTERS - PRONTI A CREDERE",
             "year": "",
-            "thumbnail": "https://www.gbitalia.it/wp-content/uploads/2021/11/GBItalia_Poster_100x70_v03-1-1433x2048.jpg",
+            "tmdb_id": "1226007",
             "links": [
                 {
                     "url": "https://www.youtube.com/watch?v=rTyYeR8HQqk",
