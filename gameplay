@@ -32,7 +32,17 @@
                     "quality": "HD"
                 }
             ]
+        },
+        {
+            "title": "CYBERPUNK 2077",
+            "year": "",
+            "thumbnail": "https://twinfinite.net/wp-content/uploads/2020/06/Cyberpunk-2077-5.jpg",
+            "links": [
+                {
+                    "url": "https://www.youtube.com/watch?v=CUtfYeGPOpY&t=1959s",
+                    "quality": "HD"
+                }
+            ]
         }
     ]
 }
-
